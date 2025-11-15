@@ -9,7 +9,4 @@ git clone https://github.com/artursul95/Game_8_Queen
 pip install -r requirements.txt
 
 Далее просто необходимо запустить исполняемый файл ferz_code.py
-# Интерфейс игры
-<img width="601" height="636" alt="image" src="https://github.com/user-attachments/assets/9bf19249-e3ba-42e6-8e92-3bf49a1018ba" />
 
-<img width="600" height="638" alt="image" src="https://github.com/user-attachments/assets/37f7de95-bd00-4e55-b777-26d7eb75ed07" />
